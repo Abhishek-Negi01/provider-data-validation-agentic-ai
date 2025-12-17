@@ -1,6 +1,6 @@
 # Agentic AI–Driven Healthcare Provider Data Validation System
 
-**Team BsinEZ | EY Techathon 2024**
+**Team BsinEZ | EY Techathon 2025**
 
 ## Project Overview
 
