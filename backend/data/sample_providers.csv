@@ -1,0 +1,23 @@
+provider_id,name,specialty,address,phone,email,license_number,last_updated
+P001,Dr. Sarah Johnson,Cardiology,123 Medical Plaza Boston MA 02101,617-555-0123,sarah.johnson@healthmail.com,MD-12345,2024-01-15
+P002,Dr. Michael Chen,Pediatrics,456 Health Center New York NY 10001,212-555-0198,michael.chen@medcare.com,MD-23456,2024-02-20
+P003,Dr. Emily Rodriguez,Orthopedics,789 Care Ave Chicago IL 60601,312-555-0145,emily.rodriguez@orthocenter.com,MD-34567,2024-03-10
+P004,Dr. James Wilson,Dermatology,321 Wellness St Los Angeles CA 90001,213-555-0167,,MD-45678,2023-11-05
+P005,Dr. Lisa Anderson,Family Medicine,654 Clinic Rd Houston TX 77001,713-555-0189,lisa.anderson@familycare.com,MD-56789,2024-01-25
+P006,Dr. Robert Martinez,Neurology,987 Brain Institute Seattle WA 98101,206-555-0134,robert.martinez@neurocare.com,MD-67890,2024-02-14
+P007,Dr. Jennifer Lee,Psychiatry,246 Mental Health Blvd Miami FL 33101,305-555-0156,jennifer.lee@mindcare.com,MD-78901,2024-03-05
+P008,Dr. David Kim,Oncology,135 Cancer Center Philadelphia PA 19101,215-555-01,david.kim@oncology.com,MD-89012,2023-10-20
+P009,Dr. Maria Garcia,Radiology,864 Imaging Plaza Phoenix AZ 85001,602-555-0178,maria.garcia@radiology.com,MD-90123,2024-01-30
+P010,Dr. Christopher Brown,Anesthesiology,753 Surgery Center San Diego CA 92101,619-555-0145,chris.brown@anesth.com,MD-01234,2024-02-18
+P011,Dr. Amanda White,Endocrinology,951 Hormone Clinic Portland OR 97201,503-555-0167,,MD-11223,2023-12-10
+P012,Dr. Daniel Taylor,Gastroenterology,357 Digestive Health Denver CO 80201,720-555-0189,daniel.taylor@gastro.com,MD-22334,2024-03-01
+P013,Dr. Jessica Moore,Rheumatology,159 Joint Care Atlanta GA 30301,404-555-0123,jessica.moore@rheum.com,MD-33445,2024-01-20
+P014,Dr. Matthew Davis,Pulmonology,753 Lung Institute Detroit MI 48201,313-555-0198,matthew.davis@pulmo.com,MD-44556,2024-02-25
+P015,Dr. Ashley Miller,Nephrology,852 Kidney Center Minneapolis MN 55401,612-555-01234,ashley.miller@nephro.com,MD-55667,2023-09-15
+P016,Dr. Ryan Thomas,Urology,963 Urology Clinic Tampa FL 33601,813-555-0156,ryan.thomas@uro.com,MD-66778,2024-03-08
+P017,Dr. Nicole Jackson,Hematology,741 Blood Center Baltimore MD 21201,410-555-0134,,MD-77889,2023-11-30
+P018,Dr. Kevin White,Infectious Disease,852 ID Clinic Nashville TN 37201,615-555-0178,kevin.white@infectdis.com,MD-88990,2024-01-12
+P019,Dr. Stephanie Harris,Allergy & Immunology,963 Allergy Center Austin TX 78701,512-555-0145,stephanie.harris@allergy.com,MD-99001,2024-02-28
+P020,Dr. Brandon Clark,Emergency Medicine,147 ER Department Charlotte NC 28201,704-555-0167,brandon.clark@emergency.com,MD-00112,2024-03-15
+P021,Dr. Michelle Lewis,Sports Medicine,258 Sports Clinic Indianapolis IN 46201,317-555-0189,michelle.lewis@sports.com,MD-11224,2024-01-18
+P022,Dr. Justin Walker,Pain Management,369 Pain Center Columbus OH 43201,614-555-0123,,MD-22335,2023-10-05

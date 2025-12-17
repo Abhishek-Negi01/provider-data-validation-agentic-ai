@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# React
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
